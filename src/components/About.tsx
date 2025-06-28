@@ -49,7 +49,7 @@ const About: React.FC = () => {
               <h3 className="text-2xl font-semibold text-gray-900 mb-6">My Story</h3>
               <div className="prose prose-gray max-w-none">
                 <p className="text-gray-600 mb-4">
-                  Hi! I'm Max (Harinath Jayan), a passionate Computer Science student at KTU with a 
+                  Hi! I'm Harinath Jayan, a passionate Computer Science student at KTU with a 
                   deep interest in web development, artificial intelligence, and robotics. My journey 
                   into tech began with curiosity and has evolved into a genuine passion for creating 
                   innovative solutions.

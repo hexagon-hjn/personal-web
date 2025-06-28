@@ -44,20 +44,20 @@ const Contact: React.FC = () => {
     {
       icon: Mail,
       title: 'Email',
-      value: 'max.jayan@email.com',
-      link: 'mailto:max.jayan@email.com'
+      value: 'harinathjayan@gmail.com',
+      link: 'mailto:harinathjayan@gmail.com'
     },
     {
       icon: Phone,
       title: 'Phone',
-      value: '+91 98765 43210',
-      link: 'tel:+919876543210'
+      value: '+91 6238318216',
+      link: 'tel:+916238318216'
     },
     {
       icon: MapPin,
       title: 'Location',
       value: 'Kerala, India',
-      link: null
+      link: 'https://maps.app.goo.gl/A1H94QVgYAYj2jbc6'
     }
   ];
 

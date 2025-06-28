@@ -23,7 +23,7 @@ const Hero: React.FC = () => {
           {/* Profile Image */}
           <div className="mb-8">
             <div className="w-32 h-32 sm:w-40 sm:h-40 mx-auto rounded-full bg-gradient-to-br from-primary-500 to-primary-600 flex items-center justify-center text-white text-4xl sm:text-5xl font-bold shadow-xl">
-              MJ
+              HJN
             </div>
           </div>
 
@@ -60,7 +60,7 @@ const Hero: React.FC = () => {
           {/* Social Links */}
           <div className="flex justify-center space-x-6 mb-12">
             <a
-              href="https://github.com"
+              href="https://www.instagram.com/hexagon.hjn/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-gray-600 transition-colors duration-200 transform hover:scale-110"
@@ -68,7 +68,7 @@ const Hero: React.FC = () => {
               <Github size={24} />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.instagram.com/hexagon.hjn/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-blue-600 transition-colors duration-200 transform hover:scale-110"

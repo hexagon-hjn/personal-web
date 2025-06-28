@@ -54,7 +54,7 @@ const Footer: React.FC = () => {
             {/* Social Links */}
             <div className="flex space-x-4 mt-6">
               <a
-                href="https://github.com"
+                href="https://www.instagram.com/hexagon.hjn/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors duration-200 transform hover:scale-110"
@@ -62,7 +62,7 @@ const Footer: React.FC = () => {
                 <Github size={20} />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.instagram.com/hexagon.hjn/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-blue-400 transition-colors duration-200 transform hover:scale-110"
@@ -70,7 +70,7 @@ const Footer: React.FC = () => {
                 <Linkedin size={20} />
               </a>
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/hexagon.hjn/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-pink-400 transition-colors duration-200 transform hover:scale-110"
