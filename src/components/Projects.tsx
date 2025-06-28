@@ -26,7 +26,7 @@ const Projects: React.FC = () => {
       id: 1,
       title: 'E-Commerce Platform',
       description: 'A full-stack e-commerce platform with user authentication, product management, and payment integration.',
-      image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'hey.jpg?auto=compress&cs=tinysrgb&w=600',
       technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
       githubUrl: 'https://github.com',
       liveUrl: 'https://example.com',
