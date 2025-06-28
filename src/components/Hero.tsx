@@ -29,7 +29,7 @@ const Hero: React.FC = () => {
 
           {/* Name and Title */}
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-4">
-            Max Jayan
+             Harinath Jayan
           </h1>
           <h2 className="text-xl sm:text-2xl text-gray-600 mb-6">
             Aspiring Developer & Student at KTU
@@ -76,7 +76,7 @@ const Hero: React.FC = () => {
               <Linkedin size={24} />
             </a>
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/hexagon.hjn/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-pink-600 transition-colors duration-200 transform hover:scale-110"
